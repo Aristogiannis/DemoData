@@ -158,5 +158,5 @@ print(weather().limited_temp(29,111))
 person = Person()
 print(person.fullname())
 print(person.email)
-# a = "Νεαρη anime κοπελα που σχεδον δεν ξερη τι της γινετε"
-# silveralert("C:\\Users\\arist\\OneDrive\\Υπολογιστής\\unknown.png","D:\\alert.png","Γεωργια Νικολαιδου","18", "1/2/2022","Παγκρατι", "μαυρα", "138 cm","30 κιλα", a)
+# a = "description"
+# silveralert("C:\\Users\\arist\\OneDrive\\Υπολογιστής\\unknown.png","D:\\alert.png","Aristogiannis Filippis","18", "1/2/2022","Athens", "black", "183 cm","70 κιλα", a)
